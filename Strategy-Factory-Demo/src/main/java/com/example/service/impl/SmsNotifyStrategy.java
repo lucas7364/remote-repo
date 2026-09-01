@@ -3,8 +3,11 @@ package com.example.service.impl;
 import com.example.dto.NotifyDTO;
 import com.example.myEnum.NotifyChannelEnum;
 import org.springframework.stereotype.Component;
-import com.example.Strategy.NotifyStrategy;
+import com.example.service.NotifyStrategy;
 
+/**
+ * 短信通知实现
+ */
 @Component
 public class SmsNotifyStrategy implements NotifyStrategy {
 

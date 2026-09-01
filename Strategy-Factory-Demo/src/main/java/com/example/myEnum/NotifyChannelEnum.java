@@ -1,5 +1,8 @@
 package com.example.myEnum;
 
+/**
+ * 渠道枚举
+ */
 public enum NotifyChannelEnum {
     /** 短信 */
     SMS(1, "sms"),

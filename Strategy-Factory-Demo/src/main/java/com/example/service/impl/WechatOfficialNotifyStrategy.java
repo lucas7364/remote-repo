@@ -3,8 +3,11 @@ package com.example.service.impl;
 import com.example.dto.NotifyDTO;
 import com.example.myEnum.NotifyChannelEnum;
 import org.springframework.stereotype.Component;
-import com.example.Strategy.NotifyStrategy;
+import com.example.service.NotifyStrategy;
 
+/**
+ * 微信公众号通知实现（模板消息）
+ */
 @Component
 public class WechatOfficialNotifyStrategy implements NotifyStrategy {
 

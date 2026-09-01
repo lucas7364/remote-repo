@@ -1,6 +1,5 @@
 package com.example.service;
 
-import com.example.Strategy.NotifyStrategy;
 import com.example.dto.NotifyDTO;
 import com.example.factory.NotifyStrategyFactory;
 import org.springframework.stereotype.Service;
@@ -8,6 +7,9 @@ import org.springframework.stereotype.Service;
 import javax.annotation.Resource;
 import java.util.List;
 
+/**
+ * 通知业务服务层，对外提供调用
+ */
 @Service
 public class NotifyService {
 

@@ -1,7 +1,10 @@
-package com.example.Strategy;
+package com.example.service;
 
 import com.example.dto.NotifyDTO;
 
+/**
+ * 通知抽象接口（策略接口）
+ */
 public interface NotifyStrategy {
     /**
      * 发送通知

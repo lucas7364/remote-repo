@@ -3,6 +3,9 @@ package com.example.dto;
 import lombok.Data;
 import java.util.Map;
 
+/**
+ * 统一入参 DTO
+ */
 @Data
 public class NotifyDTO {
     /** 用户标识：手机号/邮箱/微信openid */

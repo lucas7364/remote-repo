@@ -1,7 +1,7 @@
 package com.example.factory;
 
 import org.springframework.stereotype.Component;
-import com.example.Strategy.NotifyStrategy;
+import com.example.service.NotifyStrategy;
 
 import javax.annotation.PostConstruct;
 import javax.annotation.Resource;
@@ -9,6 +9,9 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * 通知工厂类
+ */
 @Component
 public class NotifyStrategyFactory {
 
