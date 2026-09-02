@@ -65,7 +65,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
@@ -120,6 +120,7 @@
       <workItem from="1788240345391" duration="7702000" />
       <workItem from="1788259599728" duration="437000" />
       <workItem from="1788260279610" duration="2054000" />
+      <workItem from="1788339239394" duration="283000" />
     </task>
     <task id="LOCAL-00001" summary="commmit">
       <created>1788254664847</created>
@@ -156,7 +157,21 @@
       <option name="project" value="LOCAL" />
       <updated>1788339115505</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="init">
+      <created>1788339366659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1788339366659</updated>
+    </task>
+    <task id="LOCAL-00007" summary="init">
+      <created>1788339473256</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1788339473256</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,5 +196,9 @@
     <MESSAGE value="补充README文件" />
     <MESSAGE value="init" />
     <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
